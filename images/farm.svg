@@ -1,0 +1,10 @@
+<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="farmTitle">
+  <title id="farmTitle">Ilustração de fazenda sustentável</title>
+  <rect width="640" height="480" fill="#7fb77e" rx="32"/>
+  <path d="M100 340h440v90H100z" fill="#2a6f4f"/>
+  <path d="M160 250h60v90h-60zM260 200h60v140h-60zM360 220h60v120h-60z" fill="#f4b742"/>
+  <path d="M120 340s40-90 100-90 100 90 100 90" fill="#2a6f4f" opacity="0.9"/>
+  <path d="M440 340s40-90 100-90 100 90 100 90" fill="#2a6f4f" opacity="0.9"/>
+  <path d="M150 180c20-40 60-40 80 0s60 40 80 0" fill="#fff" opacity="0.85"/>
+  <circle cx="320" cy="200" r="50" fill="#fff" opacity="0.8"/>
+</svg>

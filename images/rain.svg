@@ -1,0 +1,11 @@
+<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="rainTitle">
+  <title id="rainTitle">Ilustração de chuva e clima</title>
+  <rect width="640" height="480" fill="#d7e8e0" rx="32"/>
+  <path d="M160 220c0-40 34-74 76-74s76 34 76 74" fill="#fff"/>
+  <path d="M260 220c0-40 34-74 76-74s76 34 76 74" fill="#eef6ec"/>
+  <path d="M360 220c0-40 34-74 76-74s76 34 76 74" fill="#fff"/>
+  <path d="M210 320l-18 34c-4 8 2 18 12 18h12c10 0 16-10 12-18l-18-34c-4-8-14-8-18 0z" fill="#2a6f4f"/>
+  <path d="M290 320l-18 34c-4 8 2 18 12 18h12c10 0 16-10 12-18l-18-34c-4-8-14-8-18 0z" fill="#7fb77e"/>
+  <path d="M370 320l-18 34c-4 8 2 18 12 18h12c10 0 16-10 12-18l-18-34c-4 8-14 8-18 0z" fill="#2a6f4f"/>
+  <path d="M230 160c60-40 140-40 200 0" stroke="#2a6f4f" stroke-width="18" fill="none" stroke-linecap="round"/>
+</svg>

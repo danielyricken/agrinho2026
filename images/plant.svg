@@ -1,0 +1,9 @@
+<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="plantTitle">
+  <title id="plantTitle">Ilustração de planta crescendo em solo sustentável</title>
+  <rect width="640" height="480" fill="#eef6ec" rx="32"/>
+  <path d="M320 260c-20 0-40 20-40 40v80h80v-80c0-20-20-40-40-40z" fill="#2a6f4f"/>
+  <path d="M300 240c-30-20-40-60 0-80s50-10 60 20 20 60-10 80c-15 10-35 10-50 0z" fill="#7fb77e"/>
+  <path d="M330 200c25-20 40-50 30-75s-45-40-65-15" fill="#2a6f4f"/>
+  <path d="M310 230c-20-15-40-10-55 5s-15 30 5 40c20 10 40 5 55-5z" fill="#f4b742" opacity="0.9"/>
+  <path d="M200 380h240v30H200z" fill="#5b6b58"/>
+</svg>
